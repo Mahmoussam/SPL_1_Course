@@ -4,4 +4,4 @@ So far implemneted:
   -  echo
   -  cp
   -  mv
-  -  
+  -  pwd

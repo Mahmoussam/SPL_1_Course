@@ -1,4 +1,4 @@
-# SPL_1_Course
+# System programming ,LInUX!
 Coding Assignments of SLP1 course:
 So far implemneted:
   -  echo
